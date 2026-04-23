@@ -63,3 +63,9 @@ Each row represents a single unit of demand, enabling detailed order-level analy
 ## Project Objective
 
 This project demonstrates the application of data analytics to solve real-world supply chain and inventory management problems.
+
+## Author
+
+Byron Moreira
+
+B.Sc. in Computer Applications, Mathematics & Statistics
