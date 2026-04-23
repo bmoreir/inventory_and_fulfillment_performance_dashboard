@@ -52,7 +52,7 @@ Each row represents a single unit of demand, enabling detailed order-level analy
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](images/Dashboard.png)
 
 ## How to Run
 
