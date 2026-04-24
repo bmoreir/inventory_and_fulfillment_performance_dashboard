@@ -39,20 +39,24 @@ Each row represents a single unit of demand, enabling detailed order-level analy
 
 ## Key Insights
 
-- High-demand products experienced significantly higher stockout rates due to insufficient inventory levels
-- Lower-demand products were consistently overstocked, indicating inefficient inventory allocation
-- Warehouse performance varied significantly, with one warehouse underperforming in fulfillment rate
-- Demand vs inventory analysis revealed mismatches between supply and actual demand patterns
-
+- High-demand products experienced elevated stockout rates due to insufficient inventory levels
+- Low-demand products were consistently overstocked, indicating inefficient inventory allocation
+- Warehouse performance varied significantly, with one location consistently underperforming in fulfillment rate
+- Demand vs. inventory analysis highlighted clear mismatches between supply levels and actual demand patterns
+  
 ## Business Impact
 
-- Reduced stockout occurrences from 62 days to 42 days for key high-demand products (~32% improvement)
-- Identified inventory imbalances across product categories, enabling better stock allocation strategies
-- Highlighted underperforming warehouse operations, supporting targeted operational improvements
+- Reduced stockout occurrences for high-demand products from 62 to 42 days (~32% improvement)
+- Identified inventory imbalances across product categories, supporting improved allocation strategies
+- Detected underperforming warehouse operations, enabling targeted operational improvements
 
 ## Dashboard Preview
 
 ![Dashboard Screenshot](images/Dashboard.png)
+
+## Live Dashboard
+
+View the interactive dashboard here: [https://public.tableau.com/app/profile/byron.moreira/viz/InventoryFulfillmentDashboard/InventoryFulfillmentPerformanceDashboard?publish=yes]
 
 ## How to Run
 
